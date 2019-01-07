@@ -1,5 +1,8 @@
 url: https://cgarcialivemedia.github.io
 baseurl: /cgarcialivemedia.github.io/
+#url: http://localhost:3000
+#baseurl: /sandraweb.github.io/
+#source: E:\GitDesktop\sandraweb.github.io/
 
 # Site settings
 title: Alexandra Torres
